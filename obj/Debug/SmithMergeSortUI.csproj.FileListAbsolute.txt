@@ -1,0 +1,9 @@
+C:\Users\ALLAVOIE\Documents\SmithMergeSort\SmithMergeSortBDD-master_Eric\SmithMergeSortBDD-master\SmithMergeSortUI\bin\Debug\SmithMergeSortUI.exe.config
+C:\Users\ALLAVOIE\Documents\SmithMergeSort\SmithMergeSortBDD-master_Eric\SmithMergeSortBDD-master\SmithMergeSortUI\bin\Debug\SmithMergeSortUI.exe
+C:\Users\ALLAVOIE\Documents\SmithMergeSort\SmithMergeSortBDD-master_Eric\SmithMergeSortBDD-master\SmithMergeSortUI\bin\Debug\SmithMergeSortUI.pdb
+C:\Users\ALLAVOIE\Documents\SmithMergeSort\SmithMergeSortBDD-master_Eric\SmithMergeSortBDD-master\SmithMergeSortUI\obj\Debug\SmithMergeSortUI.csprojResolveAssemblyReference.cache
+C:\Users\ALLAVOIE\Documents\SmithMergeSort\SmithMergeSortBDD-master_Eric\SmithMergeSortBDD-master\SmithMergeSortUI\obj\Debug\SmithMergeSortUI.Properties.Resources.resources
+C:\Users\ALLAVOIE\Documents\SmithMergeSort\SmithMergeSortBDD-master_Eric\SmithMergeSortBDD-master\SmithMergeSortUI\obj\Debug\SmithMergeSortUI.Forms.SmithMergeSortUI.SmithMergeSortForm.resources
+C:\Users\ALLAVOIE\Documents\SmithMergeSort\SmithMergeSortBDD-master_Eric\SmithMergeSortBDD-master\SmithMergeSortUI\obj\Debug\SmithMergeSortUI.csproj.GenerateResource.Cache
+C:\Users\ALLAVOIE\Documents\SmithMergeSort\SmithMergeSortBDD-master_Eric\SmithMergeSortBDD-master\SmithMergeSortUI\obj\Debug\SmithMergeSortUI.exe
+C:\Users\ALLAVOIE\Documents\SmithMergeSort\SmithMergeSortBDD-master_Eric\SmithMergeSortBDD-master\SmithMergeSortUI\obj\Debug\SmithMergeSortUI.pdb
